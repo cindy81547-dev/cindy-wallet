@@ -1,0 +1,35 @@
+{
+  "name": "欣的記帳",
+  "short_name": "欣的記帳",
+  "description": "私人記帳 App — 支出、資產、股票、房屋費用一手掌握",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "lang": "zh-TW",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "快速記帳",
+      "short_name": "記帳",
+      "description": "快速新增一筆記帳",
+      "url": "/?action=add"
+    }
+  ]
+}

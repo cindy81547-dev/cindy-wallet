@@ -3,7 +3,7 @@
 ## 📁 專案檔案結構
 
 ```
-xin-wallet/
+cindy-wallet/
 ├── index.html       ← 主程式（單檔包含所有功能）
 ├── manifest.json    ← PWA 設定
 ├── sw.js            ← 離線快取 Service Worker
@@ -32,7 +32,7 @@ xin-wallet/
 前往 https://github.com 註冊
 
 ### 2. 新建 Repository
-- Repository 名稱：`xin-wallet`
+- Repository 名稱：`cindy-wallet`
 - 設定為 **Public**
 - 點 「Create repository」
 
@@ -42,7 +42,7 @@ xin-wallet/
 git init
 git add .
 git commit -m "init"
-git remote add origin https://github.com/你的帳號/xin-wallet.git
+git remote add origin https://github.com/cindy81547-dev/cindy-wallet.git
 git push -u origin main
 ```
 
@@ -56,7 +56,8 @@ git push -u origin main
 
 約 1 分鐘後，你的 App 網址就是：
 ```
-https://你的帳號.github.io/xin-wallet/
+https://cindy81547-dev.github.io/cindy-wallet/
+
 ```
 
 ---
